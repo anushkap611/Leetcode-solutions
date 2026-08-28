@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushkap611/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushkap611/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1693-daily-leads-and-partners](https://github.com/anushkap611/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anushkap611/Leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anushkap611/Leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
