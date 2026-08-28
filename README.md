@@ -44,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/anushkap611/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushkap611/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1693-daily-leads-and-partners](https://github.com/anushkap611/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/anushkap611/Leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
