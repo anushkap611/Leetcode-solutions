@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/anushkap611/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/anushkap611/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushkap611/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anushkap611/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
