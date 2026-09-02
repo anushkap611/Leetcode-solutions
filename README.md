@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anushkap611/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1693-daily-leads-and-partners](https://github.com/anushkap611/Leetcode-solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anushkap611/Leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1890-the-latest-login-in-2020](https://github.com/anushkap611/Leetcode-solutions/tree/master/1890-the-latest-login-in-2020) |
 ## Hash Table
 |  |
 | ------- |
