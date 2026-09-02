@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/anushkap611/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/anushkap611/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/anushkap611/Leetcode-solutions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/anushkap611/Leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/anushkap611/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/anushkap611/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/anushkap611/Leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
