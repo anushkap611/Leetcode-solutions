@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushkap611/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/anushkap611/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
