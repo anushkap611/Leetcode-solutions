@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anushkap611/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/anushkap611/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushkap611/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anushkap611/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anushkap611/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anushkap611/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anushkap611/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushkap611/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
