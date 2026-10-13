@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkap611/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anushkap611/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushkap611/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anushkap611/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/anushkap611/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anushkap611/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
