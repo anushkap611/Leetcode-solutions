@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anushkap611/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1929-concatenation-of-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anushkap611/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anushkap611/Leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/anushkap611/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Bracket Sequences
 |  |
 | ------- |
