@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anushkap611/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anushkap611/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/anushkap611/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/anushkap611/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anushkap611/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anushkap611/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anushkap611/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anushkap611/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anushkap611/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/anushkap611/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/anushkap611/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -180,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anushkap611/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anushkap611/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anushkap611/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
