@@ -1,11 +1,10 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        mergeSort(nums, 0, nums.length-1);
         return nums;
     }
     public void mergeSort(int[] nums, int left, int right) {
-        //merge sort
-        if(left >= right) {
+        if(left>=right) {
             return;
         }
         int mid = left + (right-left)/2;
@@ -14,10 +13,10 @@ class Solution {
         merge(nums, left, mid, right);
     }
     public void merge(int[] nums, int left, int mid, int right) {
-        int[] temp = new int[right - left + 1];
-        int i = left, j = mid + 1, k = 0;
+        int[] temp = new int[right-left+1];
+        int i = left, j = mid+1, k = 0;
         while(i<=mid && j<=right) {
-            if(nums[i] <= nums[j]) {
+            if(nums[i]<=nums[j]) {
                 temp[k++] = nums[i++];
             }
             else {
