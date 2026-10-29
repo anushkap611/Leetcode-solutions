@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anushkap611/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anushkap611/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/anushkap611/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkap611/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/anushkap611/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Trie
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkap611/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/anushkap611/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkap611/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
